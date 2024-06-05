@@ -23,7 +23,6 @@ Dado este contexto, el estudio del problema para la prevención y disminución d
 El proyecto hace uso de diversas tecnologías y herramientas para realizar un análisis exhaustivo de los siniestros viales. Algunas de las principales tecnologías utilizadas incluyen:
 
 - [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
-- [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)]
 - [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
 - [![Pandas](https://img.shields.io/badge/Library-Pandas-brightgreen)](https://pandas.pydata.org/)
 - [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
@@ -107,7 +106,7 @@ A partir del análisis exhaustivo de los datos y su posterior visualización a t
 
 Para reducir la cantidad de siniestros viales con víctimas fatales, se recomienda:
 
-- **Mejorar las señales y controles en avenidas, especialmente en las comunas 1 y 4.
-- **Implementar campañas de prevención dirigidas a hombres de 20-40 años, enfocadas en los horarios de mayor riesgo.
-- **Fortalecer la educación y concienciación vial, especialmente en horarios críticos y en zonas de alto tráfico peatonal y de motociclistas.
-- **Revisar y mejorar la infraestructura vial en las avenidas y cruces más peligrosos, para facilitar un tránsito más seguro.
+- Mejorar las señales y controles en avenidas, especialmente en las comunas 1 y 4.
+- Implementar campañas de prevención dirigidas a hombres de 20-40 años, enfocadas en los horarios de mayor riesgo.
+- Fortalecer la educación y concienciación vial, especialmente en horarios críticos y en zonas de alto tráfico peatonal y de motociclistas.
+- Revisar y mejorar la infraestructura vial en las avenidas y cruces más peligrosos, para facilitar un tránsito más seguro.
